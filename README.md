@@ -5,7 +5,7 @@ This is a personal playground to explore the front-end world and build cool inte
 
 ---
 
-###🪨✋✌️ Rock Paper Scissor
+### 🪨✋✌️ Rock Paper Scissor
 A simple interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
 
 > ✅ Features:
