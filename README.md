@@ -14,10 +14,6 @@ A simple interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScr
 - Win/loss/draw messages
 - Mobile responsive design
 
-> Sneak peek:
-
-![Rock Paper Scissor Screenshot](./Rock-Paper_scissor/images/paper.png)
-
 > How to run:
 open `index.html` inside the `Rock-Paper_scissor/` folder in your browser (no server required).
 
