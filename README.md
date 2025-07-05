@@ -18,19 +18,3 @@ A simple interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScr
 open `index.html` inside the `Rock-Paper_scissor/` folder in your browser (no server required).
 
 ---
-
-
-
-## Folder Structure
-
-javascript-small-projects/
-├── Rock-Paper_scissor/
-│ ├── index.html
-│ ├── style.css
-│ ├── script.js
-│ └── images/
-│ └── paper.png
-├── README.md
-
-
-
